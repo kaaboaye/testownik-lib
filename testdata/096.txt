@@ -1,0 +1,5 @@
+X1000
+96. Histogramy brzegowe (literalne) s¹ stosowane:
+Do lokalizowania obiektów na obrazach
+do skalowania obrazów
+Do kolorowania obrazów monochromatycznych

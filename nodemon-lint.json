@@ -1,0 +1,11 @@
+{
+    "verbose": true,
+    "watch": [
+        "build/**/*.js",
+        "src/**/*.html",
+        "src/**/*.css",
+        "src/**/*.js"
+    ],
+    "ext": "ts,html,css,js",
+    "exec": "./node_modules/.bin/tslint -p ."
+}

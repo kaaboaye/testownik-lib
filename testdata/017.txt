@@ -1,0 +1,5 @@
+X0100
+17. Uk³ad regulacji z otwart¹ pêtl¹ sprzê¿enia zwrotnego to uk³ad w którym: .
+obiekt regulacji jest pod³¹czony na wejœciu regulatora
+sygna³ zadany jest wejœciem regulatora //regulator nie ma informacji o wyjœciu uk³adu (y)
+uchyb regulacji jest wejœciem regulatora

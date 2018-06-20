@@ -1,0 +1,21 @@
+{
+    "verbose": true,
+    "watch": [
+        "build/**/*.js",
+        "src/**/*.html",
+        "src/**/*.css",
+        "src/**/*.js"
+    ],
+    "ext": "html,css,js",
+    "env": {
+        "DB_HOST": "localhost",
+        "DB_USERNAME": "postgres",
+        "DB_PASSWORD": "mysecretpassword",
+        "DB_NAME": "postgres",
+        "DB_PORT": "32003",
+        "DISABLE_SALT": "true",
+        "STORAGE_MAIL": "mojpoker@t.pl",
+        "GLOBAL_URL": "http://localhost:3001"
+    },
+    "exec": "node ./build"
+}

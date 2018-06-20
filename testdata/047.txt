@@ -1,0 +1,6 @@
+X0001
+47. OdpowiedŸ skokowa stabilnego systemu liniowego:
+maleje do zera
+zawsze roœnie lecz nie szybciej ni¿ wyk³adniczo
+nie wiadomo zale¿y to od warunku pocz¹tkowego
+ustala siê na sta³ej wartoœci

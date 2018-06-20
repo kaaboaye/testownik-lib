@@ -1,0 +1,5 @@
+X1000
+59. Robot typu kartezjañski to robot o konfiguracji odcinka regionalnego:
+PPP
+OOO
+OPO

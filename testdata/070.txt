@@ -1,0 +1,6 @@
+X0001
+70. Stacjonarny system dynamiczny:
+Spe³nia zasadê superpozycji
+Jest stabilny
+Posiada ujemne sprzê¿enie zwrotne
+Mo¿e byæ opisywany równaniem ró¿niczkowym //to w przypadku systemów z czasem ci¹g³ym. W przypadku systemów z czasem dyskretnym opis stanowi¹ równania ró¿nicowe

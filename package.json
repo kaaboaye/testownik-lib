@@ -1,0 +1,22 @@
+{
+  "name": "testownik-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc --watch",
+    "debug": "nodemon --config nodemon-debug.json",
+    "dlint": "nodemon --config nodemon-lint.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/fs-readfile-promise": "^3.0.0",
+    "@types/node": "^10.3.4",
+    "fs-readfile-promise": "^3.0.1",
+    "tslint": "^5.10.0",
+    "typescript": "^2.9.2"
+  }
+}

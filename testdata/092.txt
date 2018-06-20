@@ -1,0 +1,5 @@
+X0100
+92. Robot o dwóch modu³ach klasy IV i dwóch klasy V ma ile stopni swobody?
+8
+6
+4

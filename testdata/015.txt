@@ -1,0 +1,5 @@
+X1000
+15. W uk³adzie automatycznej regulacji wejœciem obiektu jest:
+wyjœcie regulatora
+uchyb regulacji
+wartoœæ zadana jego wyjœcia

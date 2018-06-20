@@ -1,0 +1,5 @@
+X1000
+98. Metoda k-najbli¿szych s¹siadów
+mo¿e byæ wykorzystywana do klasyfikacji
+rezultaty zawsze nie zale¿¹ od liczby k
+Mo¿e byæ tylko stosowane do danych znormalizowanych

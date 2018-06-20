@@ -1,0 +1,5 @@
+X0100
+51. Która z metod nawigacji AGV jest najmniej dok³adna?
+metoda ¿yroskopowa
+metoda sonarowa
+metoda laserowa

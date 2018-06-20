@@ -1,0 +1,5 @@
+X0010
+Jeœli robot posiada 1 przegub 4 klasy i 2 przeguby 5 klasy to jego ruchliwoœæ wynosi:
+dwa
+trzy
+cztery

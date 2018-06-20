@@ -1,0 +1,5 @@
+X0100
+100. Sieci neuronowe:
+nie mog¹ byæ u¿ytê do sterowania nielinowych obiektów dynamicznych
+mog¹ byæ wykorzystane do predykcji szeregów czasowych
+s¹ zawsze rekurencyjne

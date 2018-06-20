@@ -1,0 +1,5 @@
+X0100
+97. Do detekcji uszkodzeñ?
+Wykorzystywane s¹ tylko kamery na podczerwieñ i œwiat³o widzialne
+mog¹ byæ u¿yte skanery laserowe
+nie s¹ stosowane kamery pracuj¹ce w paœmie ultrafioletowym oraz obrazy rentgenowskie

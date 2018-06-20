@@ -1,0 +1,6 @@
+X0100
+79. Transmitancja jest zdefiniowana tylko dla:
+Uk³adów liniowych i nieliniowych
+Uk³adów liniowych
+Uk³adów nieliniowych
+Uk³adów dyskretnych

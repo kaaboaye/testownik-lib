@@ -1,0 +1,5 @@
+X0010
+99. Sieci Neuronowe g³êbokie
+nie maj¹ ¿adnej warstwy ukrytej
+zawsze wymagaj¹ wykonania wczeœniejszej ekstracji cech
+mog¹ mieæ kilkanaœcie warstw

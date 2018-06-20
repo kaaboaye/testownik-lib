@@ -1,0 +1,5 @@
+X1000
+50. Która z metod nawigacji AGV jest najmniej dok³adna?
+metoda pêtli indukcyjnej
+metoda laserowa
+metoda ¿yroskopowa

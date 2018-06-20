@@ -1,0 +1,5 @@
+X1000
+41. OdpowiedŸ skokowa obiektu ró¿niczkuj¹cego jest funkcj¹:
+malej¹c¹
+sta³¹ //dla idealnego, sygna³ wygasza siê momentalnie, razem z ustaniem impulsu
+rosn¹c¹

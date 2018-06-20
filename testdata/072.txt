@@ -1,0 +1,5 @@
+X1000
+72. StabilnoúÊ liniowego uk≥adu dynamicznego oznacza:
+ograniczonπ odpowiedü na ograniczone wejúcie //BIBO
+sta≥π odpowiedü na ograniczone wejúcie
+zerowπ odpowiedü na ograniczone wejúcie
